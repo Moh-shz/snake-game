@@ -6,6 +6,7 @@ This project demonstrates **object-oriented programming (OOP)** with separate cl
 ---
 
 ## 🎮 Features
+
 - Snake grows longer when it eats food.
 - Scoreboard with persistent **high score** (saved in `high_score.txt`).
 - Collision detection with food, wall (wrap-around), and tail.
@@ -14,6 +15,7 @@ This project demonstrates **object-oriented programming (OOP)** with separate cl
 ---
 
 ## 🛠️ Technologies
+
 - Python 3
 - `turtle` module (for graphics)
 - OOP principles (classes: Snake, Food, Scoreboard)
@@ -21,9 +23,10 @@ This project demonstrates **object-oriented programming (OOP)** with separate cl
 ---
 
 ## ▶️ How to Run
+
 1. Clone this repo:
    ```bash
-   git clone https://github.com/username/snake-game.git
+   git clone https://github.com/Moh-shz/snake-game.git
    cd snake-game
    ```
 2. Run the game:
@@ -34,6 +37,7 @@ This project demonstrates **object-oriented programming (OOP)** with separate cl
 ---
 
 ## 📂 Project Structure
+
 ```
 snake-game/
 │
@@ -52,11 +56,13 @@ snake-game/
 ---
 
 ## 📸 Screenshot
+
 ![Snake Game Screenshot](images/screenshot.png)
 
 ---
 
 ## 🚀 Future Improvements
+
 - Add sound effects
 - Difficulty levels (increasing speed)
 - Improved graphics/skins for Snake and Food
