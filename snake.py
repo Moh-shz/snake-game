@@ -23,8 +23,6 @@ class Snake:
         self.segments.append(new_segment)
 
     def reset(self):
-        # for segment in self.segments:
-        #     segment.color('black')
         for segment in self.segments:
             segment.goto(1000,1000)
         self.segments.clear()
