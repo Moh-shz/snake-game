@@ -36,6 +36,16 @@ This project demonstrates **object-oriented programming (OOP)** with separate cl
 
 ---
 
+## 🎮 Controls
+- **W** → Move Up  
+- **S** → Move Down  
+- **A** → Move Left  
+- **D** → Move Right  
+
+Use these keys to control the snake and try to get the highest score!
+
+---
+
 ## 📂 Project Structure
 
 ```
