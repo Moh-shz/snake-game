@@ -11,7 +11,7 @@ class Food(Turtle):
         self.shapesize(0.5, 0.5)
         self.speed("fastest")
         self.penup()
-        self.p_food = 0         # can delete? yes.
+        self.p_food = 0
         self.refresh()
         self.color('blue')
         # self.eat = False
@@ -47,3 +47,4 @@ class Food(Turtle):
     #     new_snake.goto(last_part_snake[0])
     #     new_snake.color('white')
     #     all_part_of_snake.append(new_snake)
+
